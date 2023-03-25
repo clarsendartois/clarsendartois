@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clarsendartois
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python developer
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning software engineer
 - 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me http://clarsendartois.pythonanywhere.com/
 
